@@ -14,7 +14,7 @@ The project is containerized with Docker to avoid dealing with Python or Tshark 
 - Lightweight and easy to integrate into ITS data analysis pipelines
 - Built using [PyShark](https://github.com/KimiNewt/pyshark) (requires Wireshark/Tshark)
 
-## 📦 Prerequisites
+## Prerequisites
 ### Running with Docker
 You need **Docker** installed and running on your system.
 1. Install and enable Docker:
