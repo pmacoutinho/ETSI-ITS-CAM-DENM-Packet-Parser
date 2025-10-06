@@ -1,0 +1,17 @@
+# Ignore test input and output folders
+testdata/
+results/
+
+# Ignore Python cache and local virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+.env/
+venv/
+.venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
